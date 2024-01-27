@@ -13,7 +13,7 @@
         android:gravity="center"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:text="Welcome to TripSponsor"
+        android:text="Welcome to Trip Sponsor"
         android:textStyle="bold"
         android:textSize="30sp"
         android:textColor="@color/black"
